@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "misakaf.org",
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".misakaf.org",
+      ]
+    },
+  ]
+}

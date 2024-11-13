@@ -3,7 +3,10 @@
   "rules": [
     {
       "domain": [
-        "misakaf.org"
+        "misakaf.org",
+        "stream1.misakaf.org",
+        "stream2.misakaf.org"
+        "stream3.misakaf.org"
       ]
     },
     {

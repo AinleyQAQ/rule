@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "misakaf.org",
+        "stream1.misakaf.org",
+        "stream2.misakaf.org",
+        "stream3.misakaf.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".misakaf.org"
+      ]
+    }
+  ]
+}
